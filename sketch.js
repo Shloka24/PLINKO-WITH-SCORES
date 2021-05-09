@@ -46,6 +46,7 @@ function draw() {
   fill("white");
   //text(mouseX + "," + mouseY, 20, 50);
   textSize(35)
+    fill("yellow");
   text(" 500 ", 5, 550);
   text(" 500 ", 80, 550);
   text(" 500 ", 160, 550);
